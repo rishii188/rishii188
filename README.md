@@ -42,5 +42,5 @@ I use GitHub Copilot and AI assistants every day to write, debug and refactor co
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/rishi-ranjan-010a3423a/)
+- [LinkedIn](https://www.linkedin.com/in/rishi-r-010a3423a/)
 - rishiranjan188@gmail.com
