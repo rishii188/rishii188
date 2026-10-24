@@ -1,34 +1,42 @@
 # Hi, I'm Rishi Ranjan
 
-Computer Science student at the **University of Surrey** (2023–2027), with a strong focus on 
-**data science, statistical modelling, and applied ML**.
+Computer Science graduate from the **University of Surrey** (2026). I build quickly with AI coding tools, then test properly before I trust the output.
+
+This summer I built an evaluation tool for AI models at the University of Cambridge (Google DeepMind Research Ready Programme). I'm looking for a junior software or AI engineering role in London.
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| [London Life Satisfaction Prediction](https://github.com/rishii188/London-Life-Satisfaction-Prediction) | Predicts life satisfaction across London areas using economic, social & environmental features. Full EDA, feature engineering, regression & ML modelling. | Python, pandas, scikit-learn |
-| [Working Memory Simulator](https://github.com/rishii188/wm-prototype) | Dissertation project — simulates bounded working memory in LLMs using token buffers and forgetting policies. Studies how constraints affect reasoning. | Python, Hugging Face |
-| [Movie Recommender](https://github.com/rishii188/movie-recommender) | Hybrid recommendation system combining collaborative filtering (SVD) and content-based NLP similarity. | Python, scikit-learn, pandas |
-| [Fake News Detector](https://github.com/rishii188/fake-news-detector) | Binary text classifier using TF-IDF + Logistic Regression to distinguish real from fake news. | Python, NLP, scikit-learn |
+| [ConceptARC: Competence vs Performance](https://github.com/rishii188/ConceptARC-Competence-vs.-Performance-on-GPT-4.1) | Tests whether AI models really understand visual puzzles or just get the right answer. 960 test runs on GPT-4.1 and GPT-5.5, resumable after crashes, results checked by hand. Presented at the Royal Academy of Engineering. | Python, OpenAI API |
+| [Working Memory Simulator](https://github.com/rishii188/wm-prototype) | Dissertation. Limits how much an AI model can remember while solving maths problems and measures what that does to accuracy across about 4,400 experiments. | Python, Hugging Face |
+| [Movie Recommender](https://github.com/rishii188/movie-recommender) | Recommends films from 1 million real ratings, combining collaborative filtering (SVD) with text similarity. | Python, scikit-learn, pandas |
+| [Fake News Detector](https://github.com/rishii188/fake-news-detector) | Classifies news articles as real or fake using TF-IDF and logistic regression. | Python, scikit-learn |
+| [London Life Satisfaction Prediction](https://github.com/rishii188/London-Life-Satisfaction-Prediction) | Predicts life satisfaction across London areas from economic, social and environmental data. | Python, pandas, scikit-learn |
+
+---
+
+## How I build
+
+I use GitHub Copilot and AI assistants every day to write, debug and refactor code. AI lets me move fast; tests and manual checks decide what ships.
 
 ---
 
 ## Skills
 
-**Languages:** Python, SQL, Java, C  
-**Data & ML:** pandas, scikit-learn, NumPy, Hugging Face, TF-IDF, SVD, Logistic Regression  
-**Other:** Streamlit, Django, React, Git
+- **Languages:** Python, JavaScript, SQL, Java, C, C++
+- **Data & ML:** pandas, NumPy, scikit-learn, Hugging Face, OpenAI API
+- **Other:** Git, Linux, Streamlit, Django, React
 
 ---
 
-## Background
+## Experience
 
-- **Department for Transport** — Data analysis, research, and policy support
-- **University of Surrey** — CS with focus on ML and applied statistics
-- **Logiscool** — Programming tutor (Python, Scratch)
+- **Google DeepMind Research Ready Programme, University of Cambridge:** research intern, built an AI evaluation tool (2026)
+- **Department for Transport:** data analysis, research and policy support
+- **Logiscool:** programming tutor (Python, Scratch)
 
 ---
 
